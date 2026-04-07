@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+/* Navbar CSS */
+
+.navbar {
+    background-color: #222;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav_logo {
+    display: flex;
+    margin-left: 200px;
+}
+
+.nav_logo img {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.nav_logo h2 {
+    margin-top: 3px;
+}
+
+.nav_items {
+    display: flex;
+    gap: 20px;
+    margin-right: 200px;
+    font-size: 15px;
+}
