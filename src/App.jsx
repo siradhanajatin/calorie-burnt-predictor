@@ -10,23 +10,23 @@ function App() {
 
   return (
     <>
-      <div className='navbar'>
+      <div id='navbar'>
         <Navbar />
       </div>
       
-      <div className='hero'>
+      <div id='hero'>
         <Hero />
       </div>
 
-      <div className='predict'>
+      <div id='predict'>
         <Predict />
       </div>
 
-      <div className='about'>
+      <div id='about'>
         <About />
       </div>
 
-      <div className='contact'>
+      <div id='contact'>
         <Contact />
       </div>
     </>
