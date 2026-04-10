@@ -1,8 +1,11 @@
 import React from 'react'
+import Profile from './profile'
 
 const about_us = () => {
   return (
-    <div>about_us</div>
+    <>
+      <Profile />
+    </>
   )
 }
 

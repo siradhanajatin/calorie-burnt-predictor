@@ -25,7 +25,7 @@ function App() {
         <Predict />
       </div>
 
-      <div className='h-screen w-full bg-zinc-900' id='about'>
+      <div className='h-full w-full bg-zinc-900' id='about'>
         <About />
       </div>
 
