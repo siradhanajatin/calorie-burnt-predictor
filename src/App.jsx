@@ -10,7 +10,8 @@ function App() {
 
   return (
     <>
-      <div id='navbar'>
+      
+      <div className='bg-zinc-800 flex justify-between p-3' id='navbar'>
         <Navbar />
       </div>
       
