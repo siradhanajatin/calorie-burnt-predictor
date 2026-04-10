@@ -8,7 +8,7 @@ const navbar = () => {
             <a href="#hero" className='mt-2 text-xl'>Calorie Burnt Predictor</a>
         </div>
         <div>
-            <ul className='flex gap-12 mt-2 mr-50 text-base'>
+            <ul className='flex gap-12 mt-2 mr-70 text-base'>
                 <li><a href="#predict">Predict</a></li>
                 <li><a href="#about">About Us</a></li>
                 <li><a href="#contact">Contact Us</a></li>
