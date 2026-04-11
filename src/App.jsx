@@ -29,7 +29,7 @@ function App() {
         <About />
       </div>
 
-      <div className='h-50 w-full bg-zinc-900' id='contact'>
+      <div className='bottom-0 left-0 right-0 h-50 bg-zinc-800 flex items-center justify-center' id='contact'>
         <Contact />
       </div>
     </>
