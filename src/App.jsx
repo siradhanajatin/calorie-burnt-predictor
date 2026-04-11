@@ -1,5 +1,3 @@
-// import { useState } from 'react'
-// import './App.css'
 import Navbar from './components/navbar'
 import Hero from './components/hero'
 import Contact from './components/contact_us'
@@ -10,7 +8,6 @@ function App() {
 
   return (
     <>
-      
       <div className='h-screen w-full bg-zinc-900'>
         <div className='bg-zinc-800 flex justify-between p-3' id='navbar'>
           <Navbar />
