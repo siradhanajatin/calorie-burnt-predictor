@@ -140,7 +140,7 @@ const Predict = () => {
             </div>
           </section>
 
-          <aside className="rounded-[36px] border border-white/10 bg-white/5 p-8 shadow-[0_30px_120px_rgba(15,23,42,0.11)] backdrop-blur-2xl z-1">
+          <aside className="rounded-[36px] border border-white/10 bg-white/5 p-8 shadow-[0_30px_120px_rgba(15,23,42,0.11)] backdrop-blur-2xl">
             <div className="mb-6 flex items-center justify-between">
               <div>
                 <p className="text-sm uppercase tracking-[0.3em] text-slate-400">
