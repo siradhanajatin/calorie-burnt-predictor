@@ -15,8 +15,8 @@ Jatin
 - Backend Integration with ML Model file using AI
 
 Aryan 
-- Collect Data for ML Model training
-- ML Model Training
+- Collect Data for ML Model training from Kaggle
+- ML Model Training and Testing
 
 Rahul
 - ML Model feature engineering and visualization
