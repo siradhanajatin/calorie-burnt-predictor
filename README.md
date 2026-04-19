@@ -9,3 +9,17 @@ Contributors:
 2. Rahul
 3. Harshit
 4. Jatin
+
+Jatin
+- Frontend Design using React and Tailwind CSS
+- Backend Integration with ML Model file using AI
+
+Aryan 
+- Collect Data for ML Model training
+- ML Model Training
+
+Rahul
+- ML Model feature engineering and visualization
+
+Harshit
+- Clean ML Model data 
